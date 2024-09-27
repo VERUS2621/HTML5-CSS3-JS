@@ -1,8 +1,8 @@
 # HTML5/CSS3
 HTML5/CSS3 웹 공부
 
-HTML 은 프로그래밍 아니다 솔직히 ㅋㅋ
-ㅈㅅ
+HTML 은 프로그래밍 아니다 솔직히 ㅋㅋㅈㅅ
+
 
 HTML - Hyper Text Markup Language / 콘텐츠의 구조를 정의하는 마크업 언어
 
