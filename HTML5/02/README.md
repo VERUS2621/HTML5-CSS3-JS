@@ -14,6 +14,6 @@
 |-------------|------------------------------------------|---------------------------------------------|
 | `<img>`     | `<img src="이미지경로" alt="대체텍스트"/>` | 이미지를 나타내는 태그. 단독 태그로 사용됨.  |
 | `alt`       | `<img src="camera.png" alt="카메라 이미지"/>` | 이미지가 보이지 않을 때 대체할 텍스트.    |
-| `<figure>`  | `<figure><img src="img.jpg"/><figcaption>설명</figcaption></figure>` | 여러 개의 컨텐츠(img, audio, video)와 그에 대한 각각의 설명을 함께 묶을 때 사용 |
+| `<figure>`  | `<figure><img src="img.jpg"/><br/><figcaption>설명</figcaption></figure>` | 여러 개의 컨텐츠(img, audio, video)와 그에 대한 각각의 설명을 함께 묶을 때 사용 |
 | `<figcaption>` | `<figcaption>이것은 카메라 사진입니다.</figcaption>` | `<figure>` 내에서 콘텐츠 설명을 제공.   |
 | URL 이미지  | `<img src="이미지 링크(URL)"/>`   | Base64 인코딩된 이미지를 직접 삽입 가능.   |
