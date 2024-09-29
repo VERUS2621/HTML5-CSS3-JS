@@ -1,3 +1,18 @@
+## HTML 기본적인 구조 (CSS, JavaScript 제외)
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width = device-width, initial-scale = 1.0">
+        <meta http-equiv="X-UA-Compatible" content = "ie=edge">
+        <title> HTML 기본적인 구조 </title>
+    </head>
+    
+    <body>
+        
+    </body>
+</html>
+-------------------------------------------------------------------------------------------------------------------
 | 태그           | 의미                      | 역할 및 설명                                                       |
 |----------------|---------------------------|--------------------------------------------------------------------|
 | `<h1>` ~ `<h6>`| 제목 태그                 | 제목을 나타내며, 숫자가 클수록 크기는 작아짐                        |
