@@ -1,6 +1,6 @@
 ## HTML 기본적인 구조 (CSS, JavaScript 제외)
 
-'''<!DOCTYPE html>
+```<!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8">
