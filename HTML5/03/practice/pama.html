@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width = device-width, initial-scale = 1.0">
+        <meta http-equiv="X-UA-Compatible" content = "ie=edge">
+        <title> 여백, 사이즈 </title>
+        <style>
+            *{
+                padding:0;
+                margin:0;
+            }
+            div{
+                background-color: blue;
+                width:300px;
+                height: 300px;
+                color: #fff;
+                font-size:30px;
+                font-weight:900;
+                padding: 10px 20px 50px 40px; 
+                /*두자리 - 상하, 좌우 / 네자리(시계방향) -> 개별 부여 가능 */
+                padding-top:30px; /* -bottom,/-right/-left (margin 옵션 동일)*/
+                margin: 50px 20px; /* 두자리, 네자리, 개별부여가능 / 
+                숫자값 auto - 박스, block요소의 중심배치!  */
+                border: 3px solid #000; 선 ㅡ 굵기, 스타일, 색상 = 개별 부여 가능 */
+                border:-top: 5px solid #000;
+                border-width: 10px; /* 선의 굵기 - 전체 적용*/
+                border-color: cadetblue; /* 선의 색상 - 전체 적용 */
+                border-style: dotted;
+                border-radius: 0px 10px 30px 0px
+                    /* 모서리 둥글게 표현 px, % 
+                    1자리 - 4개의 모서리 전체 / 2자리 - 왼쪽 상단 시작 x / 4자리 - 시계방향(왼쪽 상단) */
+                    
+            }
+        </style>
+    </head>
+    
+    
+    <body>
+            <div>box</div>
+    </body>
+</html>
