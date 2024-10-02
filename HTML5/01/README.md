@@ -89,10 +89,9 @@
     ...
 </dl>
 ```
-----
 ## 표를 만드는 태그
 
-### <table>, <tr>(row), <td>(col), <th>(head) 태그 
+### `<table>, <tr>(row), <td>(col), <th>(head)` 태그 
 - 기본적인 표 만들기 
 
 ```html
