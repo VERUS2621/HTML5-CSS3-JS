@@ -24,8 +24,8 @@
 `<br>` - break 
 `<hr>` - horizontal: 기본으로 가로선이 삽입되지만 CSS를 이용해 가로선을 없앨 수 있음
 `<blockquote>`
-`<pre>` - preformat : 소스의 형태를 그대로 보여주어야 하기 때문에 <code>, <samp>, <kbd> 와 사용 
-    - 웹 문서를 소리로 읽어 주는 기게나 점자로 표시해 주는 기계는 <pre> 태그를 건너뜀
+`<pre>` - preformat : 소스의 형태를 그대로 보여주어야 하기 때문에 `<code>, <samp>, <kbd>` 와 사용 
+    - 웹 문서를 소리로 읽어 주는 기게나 점자로 표시해 주는 기계는 `<pre>` 태그를 건너뜀
     -> 내용을 알 수 있도록 대체 텍스트 추가
 
 ----
@@ -57,16 +57,16 @@
 `<q>` - quote : 인라인 레벨 단계이므로 들여쓰기 없이 다른 내용과 함께 한줄로 표시됨.
 `<mark>` : 형광펜 효과
 `<span>` : 태그 자체로 아무 의미 없음 / 줄바꿈 없이 일부 텍스트만 묶어 스타일 적용하기 위해
-`<rudy>` : <rt> 태그 이용해서 발음 기호 주석 표시 
-`<addr>` : <p><b><addr title="Internet of Things">IoT</addr><b>란 각종 사물에 센서와 통신 기능을 내장해 인터넷에 연결하는 기술을 의미한다 </p>
-`<cite>` : <p>내가 경험한 가장 흥미진진한 일은 누군가를 만나는 일이다 - 영화 <cite>'비포선셋' </cite> 중
-`<code>` : <pre><code> function savetheLocal(){ .... } </code></pre>
-`<kbd>` : <p> 웹 화면을 다시 불러오려면 <kdb>F5</kdb>키를 누릅니다.
-`<small>` : <p> 가격 : 13,000원 <small>(부가세 별도) </small></p>
-`<sub>` : <p>물의 화학식은 <b>H<sub>2</sub>O</b>다 </p>
-`<sup>` : <p> = mc<sup>2</sup> </p>
-`<s>` : <p><s>34,000원</s><strong>19,000원</strong></p>
-`<u>` : <p> 링크 표시 용도가 아니라 단순히 밑줄을 긋는 다면 <u> u태그 </u> </p>
+`<rudy>` : `<rt>` 태그 이용해서 발음 기호 주석 표시 
+`<addr>` : `<p><b><addr title="Internet of Things">IoT</addr><b>란 각종 사물에 센서와 통신 기능을 내장해 인터넷에 연결하는 기술을 의미한다 </p>`
+`<cite>` : `<p>내가 경험한 가장 흥미진진한 일은 누군가를 만나는 일이다 - 영화 <cite>'비포선셋' </cite> 중`
+`<code>` : `<pre><code> function savetheLocal(){ .... } </code></pre>`
+`<kbd>` : `<p> 웹 화면을 다시 불러오려면 <kdb>F5</kdb>키를 누릅니다.`
+`<small>` : `<p> 가격 : 13,000원 <small>(부가세 별도) </small></p>`
+`<sub>` : `<p>물의 화학식은 <b>H<sub>2</sub>O</b>다 </p>`
+`<sup>` : `<p> = mc<sup>2</sup> </p>`
+`<s>` : `<p><s>34,000원</s><strong>19,000원</strong></p>`
+`<u>` : `<p> 링크 표시 용도가 아니라 단순히 밑줄을 긋는 다면 <u> u태그 </u> </p>`
 
 ## 목록을 만드는 태그
 
