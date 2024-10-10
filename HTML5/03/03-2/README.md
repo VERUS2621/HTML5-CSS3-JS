@@ -47,7 +47,7 @@
 
 ----
 
-#### `type="hidden"` - 히든 필드 만들기
+### `type="hidden"` - 히든 필드 만들기
 
 히든(hidden) 필드는 화면상의 폼에는 보이지 않지만 사용자가 입력을 마치고 폼을 서버로 전송할 때 서버로 함께 전송되는 요소
 보통 사용자에게 굳이 보여 줄 필요가 없지만 관리자가 알아야 하는 것을 hidden 필드로 입력함.
@@ -56,7 +56,7 @@
 
 name 속성을 이용해 히든 필드의 이름을 정하고 그에 대한 값을 value 속성을 이용해 서버로 넘겨줌.
 
-#### `type="text"` - 텍스트 필드 만들기 
+### `type="text"` - 텍스트 필드 만들기 
 
 한 줄짜리 일반 텍스트를 입력하는 필드
 폼에서 가장 많이 사용하는 요소로 아이디, 이름, 주소 등 텍스트를 입력할 때 사용
@@ -89,8 +89,11 @@ email, tel 같은 경우 모바일 기기의 웹 브라우저에서 확인해보
 지정하면 입력 창에 숫자를 직접 입력하는 것이 기본이지만
 브라우저에 따라 스핀 박스가 표시되기도 함.
 
-![firefox](./img/firefox_number.PNG)
-![explore_chorme](./img/chrome_number.PNG)
+firefox : ![firefox](./img/firefox_number.PNG)
+
+chrome : ![explore_chorme](./img/chrome_number.PNG)
+
+
 [예제](./Example/number.html)
 
 ### `type = "range"` - 슬라이드 막대로 숫자 지정하기

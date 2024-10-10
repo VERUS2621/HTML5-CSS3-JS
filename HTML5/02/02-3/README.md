@@ -14,8 +14,12 @@ SVG는 크기를 조정해도 이미지가 깨지지 않고 깨끗이 유지되�
 로고나 아이콘, 데이터 시각화에서 차트나 다이어그램, 지도를 구현할 때 많이 사용함.
 
 복잡한 데이터를 구현해 주는
-[d3.js](http://d3js.org)
-[Raphael.js](http://dmitrybaranovskiy.github.io/raphael)
+
+
+- [d3.js](http://d3js.org)
+- [Raphael.js](http://dmitrybaranovskiy.github.io/raphael)
+
+
 같은 자바 스크립트 라이브러리에서 차트나 그래프를 표현하는 방식이 SVG 이미지임.
 
 ----
@@ -30,8 +34,7 @@ SVG 이미지는 태그를 이용해서 삽입할 수도 있지만 태그를 이
 
 ### Modernizr
 
-브라우저에서 특정 기능을 지원하는지 여부를 테스트해 주는 툴 Modernizr
-[Modernizr](https://Modernizr.com/)
+브라우저에서 특정 기능을 지원하는지 여부를 테스트해 주는 툴 [Modernizr](https://Modernizr.com/)
 
 관련 파일을 다운로드 후
 `<script src="modernizr-custom.js"></script>` 를 `<head>` 사이에 삽입
