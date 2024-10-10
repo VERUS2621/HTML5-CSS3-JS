@@ -152,10 +152,9 @@ type="week" 1월 첫째 주를 기준으로 몇 번째 주인지 표시 -> 예�
 type - time 시간은 00:00 ~ 23:59
 type - datetime or datetime-local 날짜 다음에 키워드 T를 쓰고 24시간제로 시간을 지정 
 
+- 오후 6시 인경우 -> T18:00
 
-오후 6시 인경우 -> T18:00
-
-datetime 경우 HTML5에서 제외되었지만 HTML5.1에 다시 채택되었음
+**datetime 경우 HTML5에서 제외되었지만 HTML5.1에 다시 채택되었음**
 
 type="datetime"의 경우, 날짜와 시간 문자 뒤에 시간대(timezone)를 함께 표시해야 하는데
 UTC 기준일 경우 Z 라고만 표시하면 되고, 
