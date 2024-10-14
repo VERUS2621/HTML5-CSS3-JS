@@ -22,6 +22,7 @@ CSS 박스 모델이란 웹 문서의 내용을 **박스 형태**로 정의하�
 대표적인 예 `<img>, <strong>` 태그
 
 | 종류 | 해당 태그 |
+| --- | --- |
 | 블록 레벨 태그 | <p>, <h1>~<h6>, <ul>, <ol>, <blockquote>, <div>, <form>, <hr>, <table>, <fieldset>, <address> |
 | 인라인 레벨 태그 | <img>, <object>, <br>, <sub>, <sup>, <span>, <input>, <textarea>, <label>, <button> |
 
