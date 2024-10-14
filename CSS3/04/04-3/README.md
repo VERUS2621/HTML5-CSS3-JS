@@ -1,5 +1,7 @@
 # 여백을 조절하는 속성
 
+![img](/CSS3/04/04-1/border_padding.png)
+
 ## margin 속성 - 요소 주변 여백 설정
 
 **기본형** `margin-[top/right/bottom/left.]: <크기> | <백분율> | auto`

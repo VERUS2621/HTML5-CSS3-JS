@@ -69,7 +69,9 @@ fixed로 설정해 너비를 고정해버리면 셀 너비보다 긴 내용은 �
 
 **기본형** `vertical-align: baseline | top | bottom | middle | sub | super | text-top | text-bottom | <길이 값> | <백분율 값>`
 
-vertical-align 속성은 수직 정렬 방법을 지정하는 속성이기 때문에 **inlune 이나 inline-block으로 배치한 요소의 세로 정렬 방법**을 지정함.
+vertical-align 속성은 수직 정렬 방법을 지정하는 속성이기 때문에 
+
+**inlune 이나 inline-block으로 배치한 요소의 세로 정렬 방법**을 지정함.
 
 | 속성 값 | 설명 |
 | --- | --- |
