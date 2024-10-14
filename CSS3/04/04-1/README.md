@@ -59,13 +59,13 @@ auto : 기본값 -> 콘텐츠 양에 따라 자동을 결정
 
 따라서 인터넷 익스플로러 6을 고려한 사이트를 기ㅣ획한다면 박스 모델의 width 값을 지정할 때 주의해야 함.
 
-### display - 화면 배치 방법 ㅅ결정
+### display - 화면 배치 방법 결정
 
 display 속성을 사용하면 블록 레벨 요소를 인라인 레벨 요소로 바꾸거나 인라인 레벨 요소를 블록 레벨 요소로 바꿀 수 있음
 
 세로로 표시되는 목록을 가로 내비게이션으로 바꿀 때, 한줄로 표시되는 이미지에 여백과 테두리를 추가해 갤러리로 표시할 때 이 방법을 사용함.
 
-**기본형** `display: none | contents | blocks | inline | inline-block | table | table-cell |
+**기본형** `display: none | contents | blocks | inline | inline-block | table | table-cell`
 
 외 에도 여러 속성 값이 있음
 
